@@ -1,0 +1,20 @@
+tiranium:
+  name: "Obscurus Tiranium"
+  bio: "Bio literally means life. That, in itself does not require me to make one"
+  avatar: "/images/question.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+
+ajn:
+  name: Josepth Narit
+  avatar: "/images/mi-avatar.jpg"
+  bio: "Is it possible to understand any significant portion of the universe?"
+  links:
+      - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
+        url: "https://twitter.com/mars_why"
