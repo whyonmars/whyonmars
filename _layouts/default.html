@@ -12,6 +12,7 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    {% include clicky.html trackingid="{101185581" %} <!--here is the change-->
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
